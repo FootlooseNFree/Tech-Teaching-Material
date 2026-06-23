@@ -10,12 +10,12 @@ This repository contains high-quality, interactive teaching materials for core t
 A comprehensive, advanced guide that bridges the gap between literal text matching and complex string operations.
 * **Topics covered:** RegEx Engines & Flags, Greedy vs. Lazy behaviors, Backreferences, and Positive/Negative Lookarounds.
 * **Methodology:** Includes custom gamification activities, interactive quizzes, and real-world parsing exercises.
-* 📂 **[View the full Handbook (PDF)](./Regex%20101%20(Private).pdf)**
+* 📂 **[View the full Handbook (PDF)](./Regex.pdf)**
 
 ### 2. 🐧 Introduction to Linux Command Line and Bash
 A hands-on, practical introduction to operating in a Unix environment, tailored for non-technical team members transitioning into data workflows.
 * **Topics covered:** File system navigation, essential CLI commands, pipe operations, and creating automated scripts.
-* 📂 **[View the Introduction Guide (PDF)](./Introduction%20to%20Linux%20Command%20Line%20and%20Bash.pdf)**
+* 📂 **[View the Introduction Guide (PDF)](./Linux_and_Bash_Introduction.pdf)**
 
 ### 3. 💾 SQL: Basics, Joins, and Project-Based Learning
 An interactive, 3-part SQL curriculum where learners write queries live in the browser without complex local database setups.
